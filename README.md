@@ -9,7 +9,7 @@
 ## About Me
 
 - I'm a Systems Engineering student focused on software development and programming.
-- I'm interested in software engineering, problem solving, and building practical projects.
+- I'm interested in software engineering, problem solving, cybersecurity, and building practical projects.
 - I'm currently strengthening my knowledge of C++, Data Structures, Java, Cybersecurity, and programming fundamentals.
 - I enjoy working with Linux and exploring different development environments.
 - I use Git and GitHub to manage, organize, and version my projects.
@@ -21,11 +21,29 @@
   <img src="https://skillicons.dev/icons?i=cpp,java,git,github,linux,vscode" />
 </p>
 
+## Currently Learning
+
+- C++
+- Java
+- Data Structures and Algorithms
+- Cybersecurity
+- Linux
+- Software Development Fundamentals
+
+## Featured Projects
+
+### Data Structures
+C++ project focused on implementing data structures, command processing, and programming fundamentals.
+
+### More Projects Coming Soon
+I'm continuously working on new projects as I develop my skills in software engineering and systems development.
+
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Juan123839&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Juan123839&layout=compact&theme=github_dark&hide_border=true" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Juan123839&show_icons=true&theme=github_dark&hide_border=true"
+  />
 </p>
 
 ## My Contribution Breakout
@@ -47,4 +65,8 @@
 
 ## Connect With Me
 
-LinkedIn
+<p align="left">
+  <a href="https://www.linkedin.com/in/juan-arevalo-291622334">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+</p>
