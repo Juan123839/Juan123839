@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">👋 Hola, soy Juan</h1>
 
-<!--
-**Juan123839/Juan123839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Bienvenido+a+mi+GitHub+%F0%9F%91%8B;Estudiante+y+desarrollador+en+formaci%C3%B3n+%F0%9F%92%BB;Aprendiendo+C%2B%2B+%F0%9F%9A%80;Construyendo+proyectos+y+aprendiendo+cada+d%C3%ADa" />
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">🕹️ Breakout de mis contribuciones</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Juan123839/Juan123839/github-breakout/images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Juan123839/Juan123839/github-breakout/images/breakout-light.svg"
+  />
+  <img
+    alt="Breakout de contribuciones de GitHub"
+    src="https://raw.githubusercontent.com/Juan123839/Juan123839/github-breakout/images/breakout-light.svg"
+  />
+</picture>
