@@ -21,21 +21,6 @@
   <img src="https://skillicons.dev/icons?i=cpp,git,github,linux,vscode" />
 </p>
 
-## Currently Learning
-
-- Advanced C++
-- Data Structures & Algorithms
-- Git & GitHub
-- Linux
-- Software Development Fundamentals
-
-## Featured Projects
-
-### Data Structures Project
-Implementation of data structures and command processing using C++.
-
-### Upcoming Projects
-Currently working on new projects as part of my Systems Engineering journey.
 
 ## GitHub Stats
 
