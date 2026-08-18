@@ -1,9 +1,19 @@
-<h1 align="center">👋 Hola, soy Juan</h1>
+<h1 align="center">👋 Hi, I'm Juan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Bienvenido+a+mi+GitHub+%F0%9F%91%8B;Estudiante+y+desarrollador+en+formaci%C3%B3n+%F0%9F%92%BB;Aprendiendo+C%2B%2B+%F0%9F%9A%80;Construyendo+proyectos+y+aprendiendo+cada+d%C3%ADa" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile;Software+Development+Student;Currently+learning+C%2B%2B+and+Data+Structures;Building+projects+and+improving+every+day" />
 </p>
 
+---
+
+## 👨‍💻 About Me
+
+- 🎓 I'm a student focused on software development and programming.
+- 💻 I'm interested in problem solving, software engineering, and building practical projects.
+- 🌱 I'm currently improving my skills in **C++**, **Data Structures**, and programming fundamentals.
+- 🐧 I enjoy working with **Linux** and learning more about development environments.
+- 🔧 I use **Git** and **GitHub** to manage, organize, and version my projects.
+- 🚀 My goal is to continuously improve my skills and grow as a software developer.
 <h2 align="center">🕹️ Breakout de mis contribuciones</h2>
 
 <picture>
