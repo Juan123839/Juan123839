@@ -29,14 +29,6 @@ cc<h1 align="center">Hi, I'm Diego</h1>
 - Linux
 - Software Development Fundamentals
 
-## Featured Projects
-
-### Data Structures
-C++ project focused on implementing data structures, command processing, and programming fundamentals.
-
-### More Projects Coming Soon
-I'm continuously working on new projects as I develop my skills in software engineering and systems development.
-
 ## GitHub Stats
 
 <p align="center">
