@@ -1,4 +1,4 @@
-cc<h1 align="center">Hi, I'm Diego</h1>
+<h1 align="center">Hi, I'm Diego</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+profile;Systems+Engineering+Student;Currently+learning+C%2B%2B%2C+Java+and+Cybersecurity;Building+projects+and+improving+every+day" />
 </p>
