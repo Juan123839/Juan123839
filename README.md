@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Diego</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+profile;System+Engineer+Student;Currently+learning+C%2B%2B+Data+Structures;Building+projects+and+improving+every+day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+profile;Systems+Engineering+Student;Currently+learning+C%2B%2B%2C+Java+and+Data+Structures;Building+projects+and+improving+every+day" />
 </p>
 
 ---
@@ -10,17 +10,16 @@
 
 - I'm a Systems Engineering student focused on software development and programming.
 - I'm interested in software engineering, problem solving, and building practical projects.
-- I'm currently strengthening my knowledge of C++, Data Structures, Java, Cybersecurity and programming fundamentals.
+- I'm currently strengthening my knowledge of C++, Data Structures, Java, Cybersecurity, and programming fundamentals.
 - I enjoy working with Linux and exploring different development environments.
 - I use Git and GitHub to manage, organize, and version my projects.
-- My goal is to continuously improve my technical skills and grow as a system engineer.
+- My goal is to continuously improve my technical skills and grow as a systems engineer.
 
 ## Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,git,github,linux,vscode" />
 </p>
-
 
 ## GitHub Stats
 
@@ -48,4 +47,4 @@
 
 ## Connect With Me
 
-LinkedIn 
+LinkedIn
