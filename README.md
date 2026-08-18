@@ -10,10 +10,10 @@
 
 - I'm a Systems Engineering student focused on software development and programming.
 - I'm interested in software engineering, problem solving, and building practical projects.
-- I'm currently strengthening my knowledge of C++, Data Structures, and programming fundamentals.
+- I'm currently strengthening my knowledge of C++, Data Structures, Java, Cybersecurity and programming fundamentals.
 - I enjoy working with Linux and exploring different development environments.
 - I use Git and GitHub to manage, organize, and version my projects.
-- My goal is to continuously improve my technical skills and grow as a software engineer.
+- My goal is to continuously improve my technical skills and grow as a system engineer.
 
 ## Technologies & Tools
 
