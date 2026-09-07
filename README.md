@@ -29,15 +29,14 @@
 - Cybersecurity
 - Linux
 - Software Development Fundamentals
-
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=Juan123839&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Juan123839&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
-
 ## My Contribution Breakout
 
 <picture>
