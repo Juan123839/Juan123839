@@ -1,67 +1,51 @@
-<h1 align="center">Hi, I'm Diego</h1>
+## Ship · learn · repeat
+
+<div align="center">
+
+# Diego
+
+> Product-minded developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+profile;Systems+Engineering+Student;Currently+learning+C%2B%2B%2C+Java+and+Cybersecurity;Building+projects+and+improving+every+day" />
+  <img src="https://www.gitskins.com/api/section/hero?username=juan123839&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224190679%3Fu%3D58c12c0235342843e932868f0aa6ae5405eab2b6%26v%3D4" alt="juan123839 hero visual" />
 </p>
 
----
+</div>
 
-## About Me
+## The current loop
 
-- I'm a Systems Engineering student focused on software development and programming.
-- I'm interested in software engineering, problem solving, cybersecurity, and building practical projects.
-- I'm currently strengthening my knowledge of C++, Data Structures, Java, Cybersecurity, and programming fundamentals.
-- I enjoy working with Linux and exploring different development environments.
-- I use Git and GitHub to manage, organize, and version my projects.
-- My goal is to continuously improve my technical skills and grow as a systems engineer.
+> Systems Engineering Student at Pontificia Universidad Javeriana | Aspiring Cybersecurity Professional | Networking &amp; Software Development
 
-## Technologies & Tools
+- 👥 **4** followers · **1** following
+
+*Small, useful work over vague claims.*
+
+## Things I’m building
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/puj-course/FIS_2630_1204_G4">FIS_2630_1204_G4</a></b></td><td>SIGNIA<br/><sub>Python · 2 stars</sub></td></tr>
+</table>
+
+## Signals
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,git,github,linux,vscode" />
+  <img src="https://www.gitskins.com/api/section/stats?username=juan123839&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224190679%3Fu%3D58c12c0235342843e932868f0aa6ae5405eab2b6%26v%3D4" alt="juan123839 stats visual" />
 </p>
 
-## Currently Learning
+<p><code>421 contributions</code> · <code>2 day streak</code></p>
 
-- C++
-- Java
-- Data Structures and Algorithms
-- Cybersecurity
-- Linux
-- Software Development Fundamentals
-## GitHub Activity
+## The shipping calendar
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Juan123839&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=juan123839&theme=satan" alt="juan123839 contribution activity" />
 </p>
-## My Contribution Breakout
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Juan123839/Juan123839/github-breakout/images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Juan123839/Juan123839/github-breakout/images/breakout-light.svg"
-  />
-  <img
-    alt="Breakout of my GitHub contributions"
-    src="https://raw.githubusercontent.com/Juan123839/Juan123839/github-breakout/images/breakout-light.svg"
-  />
-</picture>
+## Work with me
 
-## Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/juan-arevalo-291622334">
-    <img
-      src="https://skillicons.dev/icons?i=linkedin"
-      height="40"
-      alt="LinkedIn"
-    />
-  </a>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=juan123839&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224190679%3Fu%3D58c12c0235342843e932868f0aa6ae5405eab2b6%26v%3D4" alt="juan123839 social visual" />
 </p>
+
+<a href="https://github.com/juan123839">GitHub</a>
+
+<p align="center"><sub>Diego · Indie hacker profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
