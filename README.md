@@ -1,5 +1,3 @@
-## Ship · learn · repeat
-
 <div align="center">
 
 # Diego
