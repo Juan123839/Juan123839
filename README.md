@@ -45,5 +45,3 @@
 </p>
 
 <a href="https://github.com/juan123839">GitHub</a>
-
-<p align="center"><sub>Diego · Indie hacker profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
