@@ -91,9 +91,10 @@ A project focused on learning Colombian Sign Language through technology, combin
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/juan123839/juan123839/github-breakout/images/breakout-red.svg" alt="Red GitHub Breakout animation" width="100%" />
+<img src="https://raw.githubusercontent.com/Juan123839/Juan123839/main/images/breakout-red.svg" alt="Red GitHub Breakout animation" width="100%" />
 
-<br/>
+</div>
+
 
 <img src="https://img.shields.io/badge/END_OF_FILE-KEEP_BUILDING-9F1239?style=flat-square&labelColor=171017" />
 
