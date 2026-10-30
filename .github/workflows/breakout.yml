@@ -1,26 +1,60 @@
 
----
+name: Generate Red Breakout
 
-<div align="center">
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
-<h2>05 / BREAKOUT.exe</h2>
+permissions:
+  contents: write
 
-<b>MY CONTRIBUTIONS, YOUR GAME.</b>
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
 
-<br/>
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
 
-<sub>Every commit leaves a mark.</sub>
+      - name: Generate Red Breakout Animation
+        uses: cyprieng/github-breakout@v1
+        with:
+          github_username: Juan123839
+          ball_color: "#FFE4E6"
+          paddle_color: "#FB4565"
+          bricks_colors: "#320A13,#6B1025,#9F1239,#E11D48,#FB7185"
+          enable_ghost_bricks: true
+          output_path: "./output/"
 
-<br/><br/>
+      - name: Verify generated animation
+        run: |
+          if [ ! -s output/custom.svg ]; then
+            echo "Error: Breakout SVG was not generated"
+            exit 1
+          fi
 
-<img
-  src="https://raw.githubusercontent.com/Juan123839/Juan123839/main/images/breakout-red.svg"
-  alt="Red GitHub Breakout animation"
-  width="100%"
-/>
+      - name: Save Red Breakout SVG
+        run: |
+          mkdir -p images
+          cp output/custom.svg images/breakout-red.svg
 
-<br/><br/>
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-<img src="https://img.shields.io/badge/END_OF_FILE-KEEP_BUILDING-9F1239?style=flat-square&labelColor=171017" />
+      - name: Commit and Push Animation
+        run: |
+          git add images/breakout-red.svg
 
-</div>
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update red breakout animation"
+            git push origin HEAD:main
+          fi
