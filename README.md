@@ -79,15 +79,28 @@ A project focused on learning Colombian Sign Language through technology, combin
      Working with Linux and understanding system behavior.
 ```
 
----
+<div align="center">
+
+<h2>05 / CONTRIBUTION STATS.exe</h2>
+
+<sub>A little progress every day adds up.</sub>
+
+<br/><br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=Juan123839&theme=dark&hide_border=true&background=0D1117&ring=E11D48&fire=FB4565&currStreakNum=FB7185&sideNums=FFFFFF&currStreakLabel=FB4565&sideLabels=E11D48&dates=AAAAAA&stroke=7F1D1D"
+  alt="GitHub Contribution Stats"
+  width="85%"
+/>
+
+</div>
+
 
 <div align="center">
 
 ## 05 / BREAKOUT.exe
 
-**MY CONTRIBUTIONS, YOUR GAME.**
-
-<sub>Every commit leaves a mark.</sub>
+**MY CONTRIBUTIONS**
 
 <br/><br/>
 
