@@ -1,47 +1,108 @@
+
 <div align="center">
 
-# Diego
+# DIEGO.exe
 
-> Product-minded developer
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FB4565&center=true&vCenter=true&width=580&lines=Systems+Engineering+Student;Cybersecurity+%2F+Networking;Software+Development;Learning.+Building.+Breaking.+Improving." alt="Typing animation"/>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=juan123839&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224190679%3Fu%3D58c12c0235342843e932868f0aa6ae5405eab2b6%26v%3D4" alt="juan123839 hero visual" />
-</p>
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING-E11D48?style=flat-square&labelColor=171017" />
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-9F1239?style=flat-square&labelColor=171017" />
+<img src="https://img.shields.io/badge/LOCATION-COLOMBIA-7F1D1D?style=flat-square&labelColor=171017" />
 
 </div>
 
-## The current loop
+---
 
-> Systems Engineering Student at Pontificia Universidad Javeriana | Aspiring Cybersecurity Professional | Networking &amp; Software Development
+## 01 / WHO AM I?
 
-- 👥 **4** followers · **1** following
+```bash
+diego@github:~$ cat about.txt
 
-*Small, useful work over vague claims.*
+Name       : Diego
+University : Pontificia Universidad Javeriana
+Degree     : Systems Engineering
+Interests  : Cybersecurity | Networking | Software
+Currently  : Learning, experimenting and building
+```
 
-## Things I’m building
+I'm a Systems Engineering student interested in how software, networks and computer systems work.
 
-<table>
-<tr><td width="32%"><b><a href="https://github.com/puj-course/FIS_2630_1204_G4">FIS_2630_1204_G4</a></b></td><td>SIGNIA<br/><sub>Python · 2 stars</sub></td></tr>
-</table>
+I enjoy solving problems, developing practical projects and exploring the security side of technology.
 
-## Signals
+My goal is to keep learning and turn that knowledge into something useful.
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=juan123839&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224190679%3Fu%3D58c12c0235342843e932868f0aa6ae5405eab2b6%26v%3D4" alt="juan123839 stats visual" />
-</p>
+---
 
-<p><code>421 contributions</code> · <code>2 day streak</code></p>
+## 02 / TECH STACK
 
-## The shipping calendar
+<div align="center">
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=juan123839&theme=satan" alt="juan123839 contribution activity" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,fastapi,postgres,linux,git,docker,vscode,github&theme=dark" />
 
-## Work with me
+<br/><br/>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=juan123839&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224190679%3Fu%3D58c12c0235342843e932868f0aa6ae5405eab2b6%26v%3D4" alt="juan123839 social visual" />
-</p>
+`PYTHON` · `C++` · `JAVA` · `SQL` · `LINUX` · `GIT`
 
-<a href="https://github.com/juan123839">GitHub</a>
+</div>
+
+---
+
+## 03 / SELECTED WORK
+
+### 01. SignIA
+
+**Computer Vision / Backend Development**
+
+A project focused on learning Colombian Sign Language through technology, combining computer vision and backend development.
+
+`Python` `FastAPI` `PostgreSQL` `MediaPipe`
+
+[View repository](https://github.com/puj-course/FIS_2630_1204_G4)
+
+### 02. Risk
+
+**Data Structures / Algorithms / C++**
+
+A strategy game implementation developed in C++, using data structures, file management and Huffman compression.
+
+`C++` `Algorithms` `Huffman Coding`
+
+---
+
+## 04 / AREAS OF INTEREST
+
+```text
+[01] CYBERSECURITY
+     Understanding vulnerabilities and system security.
+
+[02] NETWORKING
+     Exploring protocols, infrastructure and connectivity.
+
+[03] SOFTWARE DEVELOPMENT
+     Building applications, APIs and algorithms.
+
+[04] OPERATING SYSTEMS
+     Working with Linux and understanding system behavior.
+```
+
+---
+
+<div align="center">
+
+## 05 / BREAKOUT.exe
+
+**MY CONTRIBUTIONS, YOUR GAME.**
+
+<sub>Every commit leaves a mark.</sub>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/juan123839/juan123839/github-breakout/images/breakout-red.svg" alt="Red GitHub Breakout animation" width="100%" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/END_OF_FILE-KEEP_BUILDING-9F1239?style=flat-square&labelColor=171017" />
+
+</div>
