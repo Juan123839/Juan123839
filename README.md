@@ -92,7 +92,6 @@ A project focused on learning Colombian Sign Language through technology, combin
 <br/><br/>
 
 <img src="https://raw.githubusercontent.com/Juan123839/Juan123839/main/images/breakout-red.svg" alt="Red GitHub Breakout animation" width="100%" />
-
 </div>
 
 
