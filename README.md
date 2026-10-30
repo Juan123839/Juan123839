@@ -43,7 +43,7 @@ My goal is to keep learning and turn that knowledge into something useful.
 
 <br/><br/>
 
-`PYTHON` · `C++` · `JAVA` · `SQL` · `LINUX` · `GIT`
+`C++` · `JAVA` · `SQL` · `LINUX` · `GIT`
 
 </div>
 
@@ -60,14 +60,6 @@ A project focused on learning Colombian Sign Language through technology, combin
 `Python` `FastAPI` `PostgreSQL` `MediaPipe`
 
 [View repository](https://github.com/puj-course/FIS_2630_1204_G4)
-
-### 02. Risk
-
-**Data Structures / Algorithms / C++**
-
-A strategy game implementation developed in C++, using data structures, file management and Huffman compression.
-
-`C++` `Algorithms` `Huffman Coding`
 
 ---
 
